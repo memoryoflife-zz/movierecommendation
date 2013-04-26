@@ -1,0 +1,274 @@
+==========================================
+Agent Name: agent16
+Bank Balance: $-6680
+Buy bids placed: 354
+Desired assets -- 
+  ticket_302: Quantity(1),  Desired Quantity(2)
+  ticket_534: Quantity(0),  Desired Quantity(4)
+  ticket_635: Quantity(0),  Desired Quantity(2)
+  ticket_962: Quantity(1),  Desired Quantity(2)
+  ticket_1174: Quantity(0),  Desired Quantity(4)
+  ticket_1295: Quantity(1),  Desired Quantity(2)
+  ticket_1542: Quantity(1),  Desired Quantity(2)
+  ticket_1714: Quantity(0),  Desired Quantity(4)
+  ticket_1855: Quantity(1),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(37),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_2001: Quantity(1)
+  ticket_3720: Quantity(1)
+  ticket_5762: Quantity(1)
+  ticket_6120: Quantity(1)
+  ticket_6302: Quantity(1)
+  ticket_6524: Quantity(1)
+  ticket_6912: Quantity(1)
+  ticket_7350: Quantity(1)
+  ticket_7940: Quantity(1)
+  ticket_9871: Quantity(1)
+  ticket_12140: Quantity(2)
+  ticket_14031: Quantity(1)
+
+==========================================
+Agent Name: agent12
+Bank Balance: $-6383
+Buy bids placed: 56
+Desired assets -- 
+  ticket_2132: Quantity(1),  Desired Quantity(2)
+  ticket_2314: Quantity(3),  Desired Quantity(4)
+  ticket_2435: Quantity(1),  Desired Quantity(2)
+  ticket_2792: Quantity(1),  Desired Quantity(2)
+  ticket_2984: Quantity(3),  Desired Quantity(4)
+  ticket_3055: Quantity(1),  Desired Quantity(2)
+  ticket_3332: Quantity(1),  Desired Quantity(2)
+  ticket_3594: Quantity(3),  Desired Quantity(4)
+  ticket_3645: Quantity(1),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(24),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_534: Quantity(1)
+  ticket_635: Quantity(1)
+  ticket_1461: Quantity(1)
+  ticket_1714: Quantity(1)
+  ticket_3811: Quantity(1)
+  ticket_4704: Quantity(1)
+  ticket_5334: Quantity(1)
+  ticket_5590: Quantity(1)
+  ticket_7940: Quantity(1)
+  ticket_9100: Quantity(1)
+  ticket_9750: Quantity(1)
+  ticket_11324: Quantity(1)
+  ticket_11621: Quantity(1)
+  ticket_13940: Quantity(2)
+
+==========================================
+Agent Name: agent13
+Bank Balance: $-9222
+Buy bids placed: 252
+Desired assets -- 
+  ticket_3972: Quantity(0),  Desired Quantity(2)
+  ticket_4144: Quantity(3),  Desired Quantity(4)
+  ticket_4205: Quantity(1),  Desired Quantity(2)
+  ticket_4592: Quantity(0),  Desired Quantity(2)
+  ticket_4704: Quantity(1),  Desired Quantity(4)
+  ticket_4875: Quantity(1),  Desired Quantity(2)
+  ticket_5172: Quantity(0),  Desired Quantity(2)
+  ticket_5334: Quantity(2),  Desired Quantity(4)
+  ticket_5495: Quantity(1),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(5),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_1340: Quantity(2)
+  ticket_3231: Quantity(1)
+  ticket_5631: Quantity(1)
+  ticket_6524: Quantity(1)
+  ticket_7104: Quantity(1)
+  ticket_7350: Quantity(1)
+  ticket_9750: Quantity(1)
+  ticket_10940: Quantity(1)
+  ticket_11324: Quantity(1)
+  ticket_11510: Quantity(1)
+  ticket_11934: Quantity(1)
+  ticket_12035: Quantity(1)
+  ticket_12514: Quantity(1)
+  ticket_13471: Quantity(1)
+
+==========================================
+Agent Name: agent15
+Bank Balance: $-11577
+Buy bids placed: 2417
+Desired assets -- 
+  ticket_5762: Quantity(0),  Desired Quantity(2)
+  ticket_5904: Quantity(1),  Desired Quantity(4)
+  ticket_6085: Quantity(1),  Desired Quantity(2)
+  ticket_6302: Quantity(0),  Desired Quantity(2)
+  ticket_6524: Quantity(0),  Desired Quantity(4)
+  ticket_6615: Quantity(0),  Desired Quantity(2)
+  ticket_6912: Quantity(0),  Desired Quantity(2)
+  ticket_7104: Quantity(1),  Desired Quantity(4)
+  ticket_7255: Quantity(0),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(12),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_534: Quantity(1)
+  ticket_801: Quantity(1)
+  ticket_3120: Quantity(2)
+  ticket_5091: Quantity(1)
+  ticket_7481: Quantity(1)
+  ticket_9100: Quantity(1)
+  ticket_11510: Quantity(1)
+  ticket_12700: Quantity(1)
+  ticket_13350: Quantity(1)
+
+==========================================
+Agent Name: testclient
+Bank Balance: $-10504
+Buy bids placed: 2163
+Desired assets -- 
+  ticket_7522: Quantity(1),  Desired Quantity(2)
+  ticket_7714: Quantity(3),  Desired Quantity(4)
+  ticket_7885: Quantity(1),  Desired Quantity(2)
+  ticket_8182: Quantity(1),  Desired Quantity(2)
+  ticket_8394: Quantity(3),  Desired Quantity(4)
+  ticket_8495: Quantity(1),  Desired Quantity(2)
+  ticket_8722: Quantity(1),  Desired Quantity(2)
+  ticket_8934: Quantity(3),  Desired Quantity(4)
+  ticket_9095: Quantity(1),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(8),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_160: Quantity(1)
+  ticket_534: Quantity(1)
+  ticket_740: Quantity(1)
+  ticket_1174: Quantity(1)
+  ticket_1714: Quantity(1)
+  ticket_2631: Quantity(1)
+  ticket_4900: Quantity(2)
+  ticket_6801: Quantity(1)
+  ticket_9281: Quantity(1)
+  ticket_10940: Quantity(1)
+  ticket_13350: Quantity(1)
+
+==========================================
+Agent Name: agent11518709
+Bank Balance: $-5074
+Buy bids placed: 215
+Desired assets -- 
+  ticket_9322: Quantity(1),  Desired Quantity(2)
+  ticket_9524: Quantity(3),  Desired Quantity(4)
+  ticket_9625: Quantity(1),  Desired Quantity(2)
+  ticket_9952: Quantity(1),  Desired Quantity(2)
+  ticket_10154: Quantity(3),  Desired Quantity(4)
+  ticket_10255: Quantity(1),  Desired Quantity(2)
+  ticket_10532: Quantity(1),  Desired Quantity(2)
+  ticket_10764: Quantity(3),  Desired Quantity(4)
+  ticket_10855: Quantity(0),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(24),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_740: Quantity(1)
+  ticket_1174: Quantity(1)
+  ticket_1940: Quantity(1)
+  ticket_2530: Quantity(1)
+  ticket_4431: Quantity(1)
+  ticket_6760: Quantity(2)
+  ticket_7255: Quantity(1)
+  ticket_8671: Quantity(1)
+  ticket_11091: Quantity(1)
+  ticket_11934: Quantity(1)
+  ticket_12514: Quantity(1)
+  ticket_12700: Quantity(1)
+
+==========================================
+Agent Name: agent14
+Bank Balance: $-6322
+Buy bids placed: 128
+Desired assets -- 
+  ticket_11152: Quantity(1),  Desired Quantity(2)
+  ticket_11324: Quantity(0),  Desired Quantity(4)
+  ticket_11415: Quantity(0),  Desired Quantity(2)
+  ticket_11762: Quantity(1),  Desired Quantity(2)
+  ticket_11934: Quantity(1),  Desired Quantity(4)
+  ticket_12035: Quantity(0),  Desired Quantity(2)
+  ticket_12352: Quantity(1),  Desired Quantity(2)
+  ticket_12514: Quantity(0),  Desired Quantity(4)
+  ticket_12695: Quantity(1),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(37),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_160: Quantity(1)
+  ticket_2530: Quantity(1)
+  ticket_3720: Quantity(1)
+  ticket_4320: Quantity(1)
+  ticket_5904: Quantity(1)
+  ticket_6291: Quantity(1)
+  ticket_8520: Quantity(2)
+  ticket_10441: Quantity(1)
+  ticket_12881: Quantity(1)
+
+==========================================
+Agent Name: agent11
+Bank Balance: $-6915
+Buy bids placed: 75
+Desired assets -- 
+  ticket_12912: Quantity(1),  Desired Quantity(2)
+  ticket_13174: Quantity(3),  Desired Quantity(4)
+  ticket_13245: Quantity(1),  Desired Quantity(2)
+  ticket_13502: Quantity(1),  Desired Quantity(2)
+  ticket_13774: Quantity(3),  Desired Quantity(4)
+  ticket_13825: Quantity(1),  Desired Quantity(2)
+  ticket_14192: Quantity(1),  Desired Quantity(2)
+  ticket_14324: Quantity(3),  Desired Quantity(4)
+  ticket_14435: Quantity(1),  Desired Quantity(2)
+  flight to melbourne: Quantity(8),  Desired Quantity(8)
+  room: Quantity(24),  Desired Quantity(24)
+Negative quantity assets -- 
+  None
+Remaining assets --
+  ticket_201: Quantity(1)
+  ticket_1174: Quantity(1)
+  ticket_1714: Quantity(1)
+  ticket_1940: Quantity(1)
+  ticket_3972: Quantity(1)
+  ticket_4320: Quantity(1)
+  ticket_4592: Quantity(1)
+  ticket_4704: Quantity(1)
+  ticket_5172: Quantity(1)
+  ticket_5590: Quantity(1)
+  ticket_5904: Quantity(1)
+  ticket_6120: Quantity(1)
+  ticket_6524: Quantity(1)
+  ticket_6615: Quantity(1)
+  ticket_7104: Quantity(1)
+  ticket_8031: Quantity(1)
+  ticket_10370: Quantity(2)
+  ticket_10855: Quantity(1)
+  ticket_11324: Quantity(1)
+  ticket_11415: Quantity(1)
+  ticket_12221: Quantity(1)
+  ticket_12514: Quantity(1)
+
+
+
+Most successful agents in the Emarket climate are (in order of success):
+1. 	agent11518709		($-5074)
+2. 	agent14		($-6322)
+3. 	agent12		($-6383)
+4. 	agent16		($-6680)
+5. 	agent11		($-6915)
+6. 	agent13		($-9222)
+7. 	testclient		($-10504)
+8. 	agent15		($-11577)
